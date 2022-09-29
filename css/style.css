@@ -1427,3 +1427,9 @@ cursor: pointer;
 .aside__btn{
     display: none;
 }
+.product-card__btn-mobile{
+    display: none;
+}
+.footer__topdrop{
+pointer-events: none;
+}
